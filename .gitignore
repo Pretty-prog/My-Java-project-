@@ -1,5 +1,5 @@
-# Compiled class file
-*.class
+public class MyHashSet{
+
 
 # Log file
 *.log
